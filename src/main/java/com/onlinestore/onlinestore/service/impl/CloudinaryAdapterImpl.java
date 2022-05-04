@@ -16,9 +16,9 @@ public class CloudinaryAdapterImpl implements CloudinaryAdapter {
 
     public CloudinaryAdapterImpl() {
         this.cloudinary = new Cloudinary(com.cloudinary.utils.ObjectUtils.asMap(
-                "cloud_name", "deqv0yxlm",
-                "api_key", "619891452315766",
-                "api_secret", "dB05iQ8V6LavJ5oyxLJsJU6UwDw",
+                "cloud_name", "dytezynmr",
+                "api_key", "354991321426811",
+                "api_secret", "YONYkLL07n4YsndziAuxvhGE-DQ",
                 "secure", true
         ));
     }
